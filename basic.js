@@ -4,7 +4,8 @@ var sheshank = {
     occupation: "chutiya",
     isSingle: true,
     hobbies: ["gaming", "coding", "reading"],
-}
+};
 
-
-console.log(sheshank.hobbies);
+sheshank.love = "serene";
+sheshank.intreset = "Shena";
+console.log(sheshank.intreset);
