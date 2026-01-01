@@ -1,5 +1,3 @@
-var price  = 100;
-var tax   = 0.15;
-
-var totalTax = `Total Vat is: ${price * tax}`;
-console.log(totalTax);
+var text = "Hello, World!";
+console.log(text.at(7)); // Output: W
+console.log(text.at(-1)); // Output: !
