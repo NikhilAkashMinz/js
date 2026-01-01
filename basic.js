@@ -1,3 +1,10 @@
-var text = "Hello, World!";
-console.log(text.at(7)); // Output: W
-console.log(text.at(-1)); // Output: !
+var sheshank = {
+    name: "Sheshank",
+    age: 25,
+    occupation: "chutiya",
+    isSingle: true,
+    hobbies: ["gaming", "coding", "reading"],
+}
+
+
+console.log(sheshank.hobbies);
